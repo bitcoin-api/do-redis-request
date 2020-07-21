@@ -1,6 +1,6 @@
 {
   "name": "do-redis-request",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Do Redis Request - Redis Helper Function",
   "main": "index.js",
   "scripts": {
