@@ -14,6 +14,7 @@ Redis Helper Function, useful in combination with [drf](https://github.com/bitco
 
 const doRedisRequest = require( 'do-redis-request' );
 
+
 async () => {
 
     const redisClient = getRedisClient();
