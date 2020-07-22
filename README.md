@@ -1,4 +1,7 @@
-# do-redis-request
+# do-redis-request 
+
+[![npm version](https://badge.fury.io/js/do-redis-request.svg)](https://badge.fury.io/js/do-redis-request)
+
 do-redis-request - Do Redis Request
 
 
