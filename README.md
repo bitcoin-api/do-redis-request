@@ -16,7 +16,7 @@ const getRedisClient = require( 'get-redis-client' );
 const doRedisRequest = require( 'do-redis-request' );
 
 
-async () => {
+(async () => {
 
     const redisClient = getRedisClient();
 
@@ -28,5 +28,7 @@ async () => {
     });
 
     console.log( 'results:', value );
+
+    redisClient.quit();
 })();
 ```
