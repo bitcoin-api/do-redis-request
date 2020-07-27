@@ -10,6 +10,13 @@ do-redis-request - Do Redis Request
 Redis Helper Function, useful in combination with [get-redis-client](https://github.com/bitcoin-api/get-redis-client) and [drf](https://github.com/bitcoin-api/drf).
 
 
+## Installation
+
+```
+npm install do-redis-request --save
+```
+
+
 ## Example
 
 ```.js
